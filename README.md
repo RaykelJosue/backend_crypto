@@ -38,9 +38,13 @@ npm run migrate
 
 ### **6️⃣ Iniciar el servidor**
 ```bash
+npx ts-node src/services/app.ts
+
+o
+
 npm start
-📌 El backend correrá en http://localhost:3000.
 ```
+📌 El backend correrá en http://localhost:3000.
 
 📌 🔹 Ejemplo de peticiones en Postman
 ✅ Registro de usuario (POST /auth/register)
