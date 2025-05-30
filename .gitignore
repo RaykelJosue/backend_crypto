@@ -1,0 +1,9 @@
+# 🗂 Archivos y carpetas generadas automáticamente
+node_modules/
+
+# 📄 Archivos de entorno
+.env
+crypto_db.sql
+criptomoneda.sql
+criptomonedas.sql
+usuarios.sql
